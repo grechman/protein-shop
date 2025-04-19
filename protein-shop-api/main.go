@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"uniproj/api"
-	"uniproj/db"
-	"uniproj/middleware"
+	"protein-shop-api/api"
+	"protein-shop-api/db"
+	"protein-shop-api/middleware"
 
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
